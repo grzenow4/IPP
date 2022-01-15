@@ -1,3 +1,3 @@
 # IPP
 Individual Programming Project
-Rare Polynomials library with calculator and doxygen documentation.
+Rare Polynomials library with calculator and doxygen documentation. 
