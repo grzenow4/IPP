@@ -1,3 +1,3 @@
 # IPP
 Individual Programming Project
-Biblioteka operacji na wielomianach rzadkich wielu zmiennych oraz kalkulator. Obsługiwana dokumentacja w doxygenie.
+Rare Polynomials library with calculator and doxygen documentation.
